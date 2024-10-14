@@ -1,1 +1,1 @@
-print("hii every one this is krishna reddy")
+print("hi every one this is krishna reddy")
